@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "320921101588",
+    "firebase_url": "https://university-notes-portal.firebaseio.com",
+    "project_id": "university-notes-portal",
+    "storage_bucket": "university-notes-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320921101588:android:4d6287b8f90b8572",
+        "android_client_info": {
+          "package_name": "com.example.hp.universitynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320921101588-ii0b7k0uhhsj4bd624u6khe4dvos840b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNaqPGGPmFw_upD80z85I9QrfTB2NvDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

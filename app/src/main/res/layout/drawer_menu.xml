@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    style="@style/Animation.AppCompat.Dialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <group android:checkableBehavior="single">
+
+    </group>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:layout_width="wrap_content"
+        android:enabled="true"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/nav_mybooks"
+        android:enabled="true"
+        android:title="My Notes" />
+
+    <item
+        android:id="@+id/nav_Upload"
+        android:enabled="true"
+        android:title="Upload Notes" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:enabled="true"
+        android:title="Log Out" />
+
+
+</menu>

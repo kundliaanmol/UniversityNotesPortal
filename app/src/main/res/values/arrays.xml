@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_course">
+        <item>Btech(CS/IT)</item>
+        <item>Btech(EC/EE)</item>
+        <item>Btech(Civil/Mech)</item>
+        <item>BSc(IT)</item>
+    </string-array>
+
+</resources>
